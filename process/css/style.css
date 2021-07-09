@@ -1,0 +1,34 @@
+body {
+    background-color: thistle;
+    font-family: "Red Hat";
+}
+@font-face {
+    font-family: "Red Hat";
+    src: url(../process/css/RedHatDisplay-MediumItalic.ttf);
+}
+h1 {
+    font-weight:700;
+    color: rgb(196, 152, 43);
+    padding-left: 50px;
+    font-size: 1em;
+    letter-spacing: 3px;
+}
+
+p {
+    color: rgb(196, 152, 43);
+    padding-left: 50px;
+    font-size: 2em;
+    line-height: 130%;
+
+}
+
+img {
+    padding-left: 50px
+}
+
+.orangeitalic {
+    color: rgb(206, 110, 20);
+    font-style: italic;
+    font-size: 0.8em;
+
+}
